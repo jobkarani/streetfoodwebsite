@@ -22,6 +22,7 @@ body{
 }
 .block5{
     background-color: #FFD77C;
+    height: 250px;
 }
 .block6{
     background-color: #C9ECB5;
@@ -68,7 +69,10 @@ h5{
     text-align: center;
 }
 .hotdeals>p{
-    text-align: right;
+    text-align: center;
+}
+.content{
+text-align: center;
 }
 .juice{
     float: left;
@@ -83,7 +87,8 @@ h5{
     left: -270px;
 }
 .contactus{
-text-align: inherit;
+text-align: center;
+padding-right: 480px;
 }
 .block6>div{
     display: flex;
@@ -100,7 +105,7 @@ li a{
     color: black;
     text-decoration: none;
 }
- #street, #menu, #deals, #special{
+ #street, #menu, #deals, #special, #us{
     color:  #6CB840;
  }
  #special{
