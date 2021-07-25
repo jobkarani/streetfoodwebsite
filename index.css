@@ -1,9 +1,71 @@
-nav {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 10px 0;
-    margin-right: 0%;
- }
+html{
+    font-style: poppins ;
+}
+.block1{
+    Background-Color: grey;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    margin: 50px 0px;
+
+}
+.block3{
+    background-color: rgb(209, 208, 208);
+    padding: 8px 12px;
+}
+.block4{
+    background-color: #C9ECB5;
+}
+.block5{
+    background-color: #FFD77C;
+}
+.block6{
+    background-color: #C9ECB5;
+}
+.left{
+    text-align: left;
+}
+.together{
+    text-align: right; 
+    justify-content: space-evenly;
+}
+.block2>h3{
+    text-align: center;
+}
+.justify{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.flex>div{
+    height: 200px;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: unset;
+}
+.hotdeals{
+    text-align: center;
+}
+.contactus{
+    text-align: center;
+}
+.footer>div{
+    display: flex;
+    justify-content: space-between;
+}
+
+ ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+li a{
+    color: black;
+    text-decoration: none;
+}
  #street, #menu, #deals, #special{
     color:  #6CB840;
  }
@@ -12,15 +74,4 @@ nav {
  }
  #btn1,#btn2,#btn3{
      background-color: #6CB840;
- }
- ul{
-     display: flex;
-     justify-content: space-around;
-     text-align: center;
- }
- nav {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 10px 0;
-    margin-right: 0%;
  }
