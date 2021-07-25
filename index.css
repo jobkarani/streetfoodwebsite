@@ -61,11 +61,16 @@ body{
     bottom: -100px;
     left: -60px;
 }
-.hotdeals{
+h5{
     text-align: center;
 }
-.hotdeals>img{
+.hotdeals{
+    display: flex;
+    justify-content: space-evenly;
+}
+.juice,.burger{
     float: left;
+
 }
 .contactus{
     text-align: center;
