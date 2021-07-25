@@ -1,5 +1,6 @@
-html{
-    font-style: poppins ;
+body{
+    font-family: poppins;
+    font-size: 19px;
 }
 .block1{
     Background-Color: grey;
@@ -11,6 +12,7 @@ html{
 .block3{
     background-color: rgb(209, 208, 208);
     padding: 8px 12px;
+    margin: 50px,0px;
 }
 .block4{
     background-color: #C9ECB5;
@@ -34,9 +36,9 @@ html{
 .justify{
     text-align: center;
 }
-.flex{
+.flex1,.flex2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .flex>div{
     height: 200px;
@@ -51,7 +53,7 @@ html{
 .contactus{
     text-align: center;
 }
-.footer>div{
+.block6>div{
     display: flex;
     justify-content: space-between;
 }
@@ -74,4 +76,7 @@ li a{
  }
  #btn1,#btn2,#btn3{
      background-color: #6CB840;
+     border: transparent;
+     height: 30px;
+     border-radius: 20vh;
  }
