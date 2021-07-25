@@ -88,6 +88,9 @@ li a{
  #street, #menu, #deals, #special{
     color:  #6CB840;
  }
+ #special{
+     text-transform: uppercase;
+ }
  #food{
      color: orange;
  }
