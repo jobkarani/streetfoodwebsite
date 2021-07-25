@@ -1,14 +1,12 @@
-ul{
-    display: flex;
-    text-emphasis: 20%;
-    justify-content: space-around;
-}
-.right{
-    text-align: right;
-}
 nav {
     max-width: 960px;
     margin: 0 auto;
     padding: 10px 0;
     margin-right: 0%;
+ }
+ #street{
+     color: green;
+ }
+ #food{
+     color: orange;
  }
