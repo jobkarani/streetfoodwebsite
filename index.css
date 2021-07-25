@@ -16,6 +16,9 @@ body{
 }
 .block4{
     background-color: #C9ECB5;
+    padding: 25px 50px 25px 50px;
+    height: 420px;
+
 }
 .block5{
     background-color: #FFD77C;
@@ -64,16 +67,23 @@ body{
 h5{
     text-align: center;
 }
-.hotdeals{
-    display: flex;
-    justify-content: space-evenly;
+.hotdeals>p{
+    text-align: right;
 }
-.juice,.burger{
+.juice{
     float: left;
-
+    position: relative;
+    bottom: 350px;
+    left: -10px;
+}
+.burger{
+    float: left;
+    position: relative;
+    bottom: 200px;
+    left: -270px;
 }
 .contactus{
-    text-align: center;
+text-align: inherit;
 }
 .block6>div{
     display: flex;
