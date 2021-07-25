@@ -4,8 +4,8 @@ nav {
     padding: 10px 0;
     margin-right: 0%;
  }
- #street{
-     color: green;
+ #street, #menu, #deals, #special{
+    color:  #6CB840;
  }
  #food{
      color: orange;
