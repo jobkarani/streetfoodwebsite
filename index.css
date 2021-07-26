@@ -34,8 +34,12 @@ body{
     text-align: right; 
     justify-content: space-evenly;
 }
-.block2>h3{
-    text-align: center;
+.date{
+    position: relative;
+    bottom: ;
+}
+h3{
+    color: #EAAB1B;
 }
 .justify{
     text-align: center;
@@ -112,7 +116,8 @@ li a{
      text-transform: uppercase;
  }
  #food{
-     color: orange;
+    font-weight: lighter;
+     color:  #EAAB1B;
  }
  #btn1,#btn2,#btn3{
      background-color: #6CB840;
