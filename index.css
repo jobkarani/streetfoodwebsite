@@ -31,15 +31,14 @@ body{
     text-align: left;
 }
 .together{
-    text-align: right; 
-    justify-content: space-evenly;
-}
-.date{
-    position: relative;
-    bottom: ;
+position: relative;
+bottom: 650px;
+left: 1100px;
 }
 h3{
     color: #EAAB1B;
+    font-size: 30px;
+    font-weight: 0.1px;
 }
 .justify{
     text-align: center;
