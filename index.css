@@ -26,6 +26,10 @@ body{
 }
 .block6{
     background-color: #C9ECB5;
+    padding: 25px 0.6px 25px 0px;
+    width: 1570px;
+    display: flex;
+    justify-content: space-evenly;
 }
 .left{
     text-align: left;
